@@ -37,6 +37,13 @@ This project focuses on analyzing fraudulent transactions using a comprehensive 
 5. **Machine Learning Modeling**:
    - Split the dataset into training and testing sets, standardized the feature data, and implemented a Random Forest Classifier.
    - Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score, and plotted the ROC curve for visual assessment.
+  
+## Visualizations
+
+- Distribution of SIFT Scores and GOV for both fraudulent and non-fraudulent transactions.
+- Chargeback cost distribution for fraudulent transactions.
+- Correlation heatmap highlighting relationships among key variables.
+- ROC curve illustrating the trade-off between true positive rate and false positive rate for the predictive model.
 
 ## Results
 
@@ -49,12 +56,6 @@ This project focuses on analyzing fraudulent transactions using a comprehensive 
   - Non-Fraudulent: **$33.36**
 - **Confusion Matrix**: Visual representation of the model's prediction performance.
 
-## Visualizations
-
-- Distribution of SIFT Scores and GOV for both fraudulent and non-fraudulent transactions.
-- Chargeback cost distribution for fraudulent transactions.
-- Correlation heatmap highlighting relationships among key variables.
-- ROC curve illustrating the trade-off between true positive rate and false positive rate for the predictive model.
 
 ## Conclusion
 
