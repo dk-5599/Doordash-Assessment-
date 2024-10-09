@@ -1,11 +1,6 @@
 
 # Fraud Detection Analysis
-
-## Assumptions
-
-- Selected features are assumed to be relevant and informative for predicting fraud.
-- Missing values are filled with zero, assuming no chargeback occurred in those cases.
-- Correlation results are interpreted as indicative of potential relationships, not definitive causation.
+#### (Please refer to the code_file for comprehensive insights, including machine learning applications, exploratory data analysis (EDA), assumptions, detailed explanations, recommendations, and various visualizations.)
 
 ## Overview
 
@@ -17,6 +12,12 @@ This project focuses on analyzing fraudulent transactions using a comprehensive 
 2. **Financial Impact Assessment**: Calculate the total financial loss caused by fraudulent chargebacks.
 3. **Correlation Analysis**: Investigate correlations between various transaction features and fraudulent behavior.
 4. **Predictive Modeling**: Develop a machine learning model to predict fraudulent transactions based on key features.
+
+## Assumptions
+
+- Selected features are assumed to be relevant and informative for predicting fraud.
+- Missing values are filled with zero, assuming no chargeback occurred in those cases.
+- Correlation results are interpreted as indicative of potential relationships, not definitive causation.
 
 ## Methodology
 
