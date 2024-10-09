@@ -1,6 +1,6 @@
 ![Red Logo](Doordash_Logo.jpg)
 # Fraud Detection Analysis
-#### (Please refer to the code_file for comprehensive insights, including machine learning applications, exploratory data analysis (EDA), assumptions, detailed explanations, recommendations, and various visualizations.)
+#### (Please refer to the code_file.ipynb for comprehensive insights, including machine learning applications, exploratory data analysis (EDA), assumptions, detailed explanations, recommendations, and various visualizations.)
 [Python Code](Code_File.ipynb)
 
 
